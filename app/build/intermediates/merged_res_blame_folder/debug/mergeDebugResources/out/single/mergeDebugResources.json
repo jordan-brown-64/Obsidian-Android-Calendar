@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.obsidiancalendar.app-debug-63:/layout_widget_loading.xml.flat",
+        "source": "com.example.obsidiancalendar.app-main-65:/layout/widget_loading.xml"
+    },
+    {
+        "merged": "com.example.obsidiancalendar.app-debug-63:/drawable_widget_preview.xml.flat",
+        "source": "com.example.obsidiancalendar.app-main-65:/drawable/widget_preview.xml"
+    },
+    {
+        "merged": "com.example.obsidiancalendar.app-debug-63:/xml_upcoming_events_widget_info.xml.flat",
+        "source": "com.example.obsidiancalendar.app-main-65:/xml/upcoming_events_widget_info.xml"
+    }
+]

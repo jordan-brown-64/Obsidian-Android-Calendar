@@ -1,0 +1,66 @@
+com.example.obsidiancalendar.app-profileinstaller-1.4.0-0 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\03a30b13500cd78ec73528eeda045c25\transformed\profileinstaller-1.4.0\res
+com.example.obsidiancalendar.app-glance-appwidget-1.1.1-1 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\063934813fa9a491246ea2179060a3ac\transformed\glance-appwidget-1.1.1\res
+com.example.obsidiancalendar.app-savedstate-ktx-1.2.1-2 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\17758a38ea9a67bbfba46e2c48ce28a4\transformed\savedstate-ktx-1.2.1\res
+com.example.obsidiancalendar.app-activity-1.10.0-3 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\3a5e845574a3e1fedf5dc788c359ec59\transformed\activity-1.10.0\res
+com.example.obsidiancalendar.app-runtime-saveable-release-4 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\40872969ab502cd2ac5742f9dc762e99\transformed\runtime-saveable-release\res
+com.example.obsidiancalendar.app-activity-compose-1.10.0-5 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\43aab2a34430d05e52c44b0436b4a8db\transformed\activity-compose-1.10.0\res
+com.example.obsidiancalendar.app-ui-unit-release-6 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\4550b655e45be00fa6808e5e328fc99f\transformed\ui-unit-release\res
+com.example.obsidiancalendar.app-ui-geometry-release-7 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\4727367c3ac4f3839cc1725cb87a67ea\transformed\ui-geometry-release\res
+com.example.obsidiancalendar.app-material-release-8 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\47be8f5f38d0003250c2860702cab164\transformed\material-release\res
+com.example.obsidiancalendar.app-ui-graphics-release-9 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\488fcd6501c8567a961fb433d3090431\transformed\ui-graphics-release\res
+com.example.obsidiancalendar.app-material3-release-10 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\4b27eda5015289a61c4c711d4ead9764\transformed\material3-release\res
+com.example.obsidiancalendar.app-sqlite-2.4.0-11 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\4bb96f3cb6af5bdcc9e37c4426443cc0\transformed\sqlite-2.4.0\res
+com.example.obsidiancalendar.app-material-ripple-release-12 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\4d38a37d3bd8c6b9f94b76a33026b101\transformed\material-ripple-release\res
+com.example.obsidiancalendar.app-core-1.13.1-13 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\583642064e541a0c6f2f94536b1165e6\transformed\core-1.13.1\res
+com.example.obsidiancalendar.app-glance-1.1.1-14 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\5b2d87a7072efb66a563582adc0ed754\transformed\glance-1.1.1\res
+com.example.obsidiancalendar.app-room-ktx-2.6.1-15 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\5bf21df2411a0daceaae2449493a3b30\transformed\room-ktx-2.6.1\res
+com.example.obsidiancalendar.app-tracing-1.2.0-16 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\5d70a475920466df281e785f819c850a\transformed\tracing-1.2.0\res
+com.example.obsidiancalendar.app-ui-tooling-data-release-17 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\5e8d2871fec9f03912ec948549e92eca\transformed\ui-tooling-data-release\res
+com.example.obsidiancalendar.app-lifecycle-viewmodel-release-18 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\647bf83c2c0af3b5e72f1d4057c11ec7\transformed\lifecycle-viewmodel-release\res
+com.example.obsidiancalendar.app-ui-text-release-19 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\6797811b79c4671f9c301fdc2c84b112\transformed\ui-text-release\res
+com.example.obsidiancalendar.app-foundation-layout-release-20 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\6a5ec3f24c87b6b4e59005c1d33b3107\transformed\foundation-layout-release\res
+com.example.obsidiancalendar.app-lifecycle-viewmodel-ktx-2.8.7-21 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\6b736c6e464152a252dc85937157b867\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.obsidiancalendar.app-activity-ktx-1.10.0-22 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\6e53bda1892ac97946e9160a0af72932\transformed\activity-ktx-1.10.0\res
+com.example.obsidiancalendar.app-datastore-1.0.0-23 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\7295adadb76b1e30b325ac3557158abf\transformed\datastore-1.0.0\res
+com.example.obsidiancalendar.app-lifecycle-livedata-2.8.7-24 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\7522dc6f685c8485342467de7c4f9190\transformed\lifecycle-livedata-2.8.7\res
+com.example.obsidiancalendar.app-lifecycle-runtime-release-25 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\78cba8ed88a92e9e3e191587c4b39af5\transformed\lifecycle-runtime-release\res
+com.example.obsidiancalendar.app-work-runtime-2.10.0-26 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\808c4e6f93d833da35f0c6e41ce947f9\transformed\work-runtime-2.10.0\res
+com.example.obsidiancalendar.app-core-ktx-1.13.1-27 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\817e094c83f1ee308fd13f7114e0dc38\transformed\core-ktx-1.13.1\res
+com.example.obsidiancalendar.app-savedstate-1.2.1-28 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\8284b2913ee777354dd5a739c2858d89\transformed\savedstate-1.2.1\res
+com.example.obsidiancalendar.app-ui-tooling-release-29 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\841113ea5e99af2dbdc8d0c6c52ea307\transformed\ui-tooling-release\res
+com.example.obsidiancalendar.app-lifecycle-process-2.8.7-30 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\8903f1eaf9d76eb748f3ff6e9424de82\transformed\lifecycle-process-2.8.7\res
+com.example.obsidiancalendar.app-startup-runtime-1.1.1-31 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\90ed95839b0ce2fac611da18df469394\transformed\startup-runtime-1.1.1\res
+com.example.obsidiancalendar.app-work-runtime-ktx-2.10.0-32 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\9ab09670809ab0016468a17f11c849d9\transformed\work-runtime-ktx-2.10.0\res
+com.example.obsidiancalendar.app-customview-poolingcontainer-1.0.0-33 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\9ae9e1c367ff65484c73ac5ae586dcc9\transformed\customview-poolingcontainer-1.0.0\res
+com.example.obsidiancalendar.app-datastore-preferences-1.0.0-34 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\9c21e2b831760347f93ec5a99e8d2684\transformed\datastore-preferences-1.0.0\res
+com.example.obsidiancalendar.app-animation-release-35 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\a03422ccc4b67cb8ffc685a09ff86370\transformed\animation-release\res
+com.example.obsidiancalendar.app-glance-material3-1.1.1-36 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\a7d3c012bcc49e2c10813064d1725c30\transformed\glance-material3-1.1.1\res
+com.example.obsidiancalendar.app-lifecycle-runtime-ktx-release-37 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\a9d3ed481db4e9fac65622e8ac64cc67\transformed\lifecycle-runtime-ktx-release\res
+com.example.obsidiancalendar.app-lifecycle-service-2.8.7-38 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\ae66d01c76d7d973699e36f327c46109\transformed\lifecycle-service-2.8.7\res
+com.example.obsidiancalendar.app-ui-tooling-preview-release-39 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\b0a129b28f7a012e74abd1d9ce7e31ec\transformed\ui-tooling-preview-release\res
+com.example.obsidiancalendar.app-core-runtime-2.2.0-40 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\b49e5e44f7223131111d22c3831febb3\transformed\core-runtime-2.2.0\res
+com.example.obsidiancalendar.app-lifecycle-livedata-core-ktx-2.8.7-41 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\b78de587370760df639c2f0066553422\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.obsidiancalendar.app-runtime-release-42 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\bcbe81a7ba11aa2c48384604ff389e53\transformed\runtime-release\res
+com.example.obsidiancalendar.app-material-icons-core-release-43 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\bd5ba6c89c3aeb2efec1ee903d75f90b\transformed\material-icons-core-release\res
+com.example.obsidiancalendar.app-annotation-experimental-1.4.1-44 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\bfc67ac6cc90b80deb5caacf962ded65\transformed\annotation-experimental-1.4.1\res
+com.example.obsidiancalendar.app-lifecycle-viewmodel-savedstate-2.8.7-45 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\c3bfc8abbeb29ab338bd33460e93cba3\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.obsidiancalendar.app-lifecycle-livedata-core-2.8.7-46 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\c5dff66f12157b507b1336114e9f6535\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.obsidiancalendar.app-graphics-path-1.0.1-47 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\cd072634222d53c91f38ccd5974af6cd\transformed\graphics-path-1.0.1\res
+com.example.obsidiancalendar.app-sqlite-framework-2.4.0-48 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\cf87a4dd7dac279a8b0fa5ec9cf0877e\transformed\sqlite-framework-2.4.0\res
+com.example.obsidiancalendar.app-core-remoteviews-1.1.0-49 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\d3facfd2dba335ee790220733a558a49\transformed\core-remoteviews-1.1.0\res
+com.example.obsidiancalendar.app-lifecycle-viewmodel-compose-release-50 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\d915611969e8824b823389204c4aa6a6\transformed\lifecycle-viewmodel-compose-release\res
+com.example.obsidiancalendar.app-room-runtime-2.6.1-51 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\d964d0878bb7ec8764d7a4c4eedcfab5\transformed\room-runtime-2.6.1\res
+com.example.obsidiancalendar.app-animation-core-release-52 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\d9c52db0968863f67e0270ef78bf4475\transformed\animation-core-release\res
+com.example.obsidiancalendar.app-ui-release-53 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\e1230147cca542514d4c2798b1c27957\transformed\ui-release\res
+com.example.obsidiancalendar.app-ui-util-release-54 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\e4aef4c987c6af43015318dc37ee73ef\transformed\ui-util-release\res
+com.example.obsidiancalendar.app-lifecycle-runtime-compose-release-55 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\e5ad65c35839760aa353a04c8848d683\transformed\lifecycle-runtime-compose-release\res
+com.example.obsidiancalendar.app-tracing-ktx-1.2.0-56 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\f827503bc92594086ab5a50d10022811\transformed\tracing-ktx-1.2.0\res
+com.example.obsidiancalendar.app-foundation-release-57 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\f9b034d71e2bda3ba8919fc07642ef69\transformed\foundation-release\res
+com.example.obsidiancalendar.app-emoji2-1.3.0-58 C:\Users\hobbi\.gradle\caches\9.6.0\transforms\fbadf3cf12f12148cbaea21f16df00f7\transformed\emoji2-1.3.0\res
+com.example.obsidiancalendar.app-pngs-59 C:\Users\hobbi\Obsidian Calendar\app\build\generated\res\pngs\debug
+com.example.obsidiancalendar.app-resValues-60 C:\Users\hobbi\Obsidian Calendar\app\build\generated\res\resValues\debug
+com.example.obsidiancalendar.app-packageDebugResources-61 C:\Users\hobbi\Obsidian Calendar\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.obsidiancalendar.app-packageDebugResources-62 C:\Users\hobbi\Obsidian Calendar\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.obsidiancalendar.app-debug-63 C:\Users\hobbi\Obsidian Calendar\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.obsidiancalendar.app-debug-64 C:\Users\hobbi\Obsidian Calendar\app\src\debug\res
+com.example.obsidiancalendar.app-main-65 C:\Users\hobbi\Obsidian Calendar\app\src\main\res
