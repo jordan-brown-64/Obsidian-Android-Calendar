@@ -109,6 +109,7 @@ fun CalendarApp(onChooseFolder: () -> Unit = {}) {
             MonthHeader(model.selectedMonth, model::month)
             MonthGrid(model.selectedMonth, model.events) { selectedDate = it }
             Spacer(Modifier.height(12.dp))
+            Text("${model.events.size} events imported", color = MaterialTheme.colorScheme.onSurfaceVariant)
             DayDetails(selectedDate, model.events)
             Spacer(Modifier.height(8.dp))
             Text("Upcoming", style = MaterialTheme.typography.titleLarge)

@@ -33,4 +33,16 @@ class EventParserTest {
     fun rejectsNotesWithoutDate() {
         assertEquals(null, EventParser.parse("---\ntitle: Missing date\n---", "missing.md"))
     }
+
+    @Test
+    fun acceptsBomCrLfAndDifferentTimeKeyCasing() {
+        val event = EventParser.parse(
+            "\uFEFF---\r\nTitle: Playtesting\r\nAllDay: false\r\nStartTime: 19:00\r\nEndTime: 21:00\r\nDate: 2024-08-16\r\n---\r\n",
+            "Events/2024-08-16 Playtesting.md"
+        )
+
+        assertEquals("2024-08-16", event?.date.toString())
+        assertEquals("19:00", event?.start.toString())
+        assertEquals("21:00", event?.end.toString())
+    }
 }
